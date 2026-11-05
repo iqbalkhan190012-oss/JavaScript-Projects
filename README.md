@@ -5,4 +5,4 @@ This repository contains all the projects I have built for my JavaScript course.
 ## Projects:
 * **TicTacToe:** A fully functional Tic Tac Toe game built with HTML, CSS, and JavaScript.
 * **Basic JavaScript Projects:** Early course exercises.
-* **Calculator:** Basic HTML structure for a calculator.
+* Calculator: A fully styled HTML and CSS calculator layout.
