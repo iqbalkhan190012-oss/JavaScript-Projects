@@ -1,0 +1,22 @@
+Final Essay
+ 
+Taking this introductory HTML course has been a highly valuable experience. It has provided me with a strong foundation in web development and gave me practical skills that I can apply immediately.
+ 
+1. How can you apply the information you've learned in this course?
+I can apply the information I've learned by building structured, functional web pages from scratch. Specifically, I now understand how to organize content using proper HTML elements, how to create navigation menus, and how to correctly embed external content, such as fixing video embedding issues using the <iframe> tag. I also now have a much better understanding of how the web works behind the scenes, including how HTTP verbs like GET and POST function.
+ 
+2. What were the benefits for you of taking the course?
+The primary benefit was gaining hands-on coding experience. Learning the syntax and structure of HTML has given me the confidence to troubleshoot and solve problems on my own. For example, working through the assignment where I had to fix the YouTube video player error taught me the importance of persistence and understanding how a browser's local file system interacts with external servers. It has improved my overall technical problem-solving skills.
+ 
+3. Why is web development a required skill for developers?
+Web development is a required skill for developers because the web is the primary platform for software distribution and interaction today. Even if a developer works primarily on back-end systems, having a solid understanding of HTML and front-end technologies is essential for understanding how the user interface communicates with the server, how data is structured, and how to build complete, functional applications that meet user needs.
+ 
+4. How do you expect to use HTML in your chosen career?
+Regardless of the specific path I take in my career, I expect to use HTML extensively. I will use it to create professional portfolios, build internal tools, or contribute to the front-end development of web applications. Understanding HTML gives me the ability to communicate more effectively with designers and front-end developers, and it allows me to prototype and build functional interfaces independently.
+ 
+5. What did you enjoy about this course?
+What I enjoyed most about this course was the immediate, visual feedback that comes with coding in HTML. Being able to write a few lines of code and immediately refresh the browser to see a fully structured webpage is very rewarding. I also appreciated the logical structure of the course and the practical assignments, like the one-page website, which tied all the concepts together.
+ 
+6. Regarding this course, is there anything else you'd like to say?
+I would like to thank my instructor for their helpful and constructive feedback on my assignments. Their detailed notes on my first attempt helped me understand exactly what was expected and allowed me to improve. This course has been a fantastic stepping stone, and I am excited to continue learning more about web development. 
+
