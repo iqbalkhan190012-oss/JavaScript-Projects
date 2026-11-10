@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX Assignment</title>
+    <!-- Link to our CSS file -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+    <!-- Heading for the page -->
+    <h2>Get The Latest Content:</h2>
+
+    <!-- Container where the new content will be loaded -->
+    <div id="content"></div>
+
+    <!-- Button that triggers the AJAX function when clicked -->
+    <button class="btn" id="btnContent" onclick="getContent()">Get Content</button>
+
+    <script>
+        // Function called when the button is clicked
+        function getContent() {
+
+            // STEP 1: Setup the XML HTTP request object
+            var ajax = new XMLHttpRequest();
+
+            // STEP 2: Prepare the open AJAX request
+            // (GET method, target file is content.html, asynchronous is true)
+            ajax.open("GET", "content.html", true);
+
+            // STEP 3: Define the AJAX response callback method
+            ajax.onreadystatechange = function () {
+
+                // Check if the request is complete (4) and successful (200)
+                if (ajax.readyState == 4 && ajax.status == 200) {
+
+                    // Update the inner HTML of the content div with the response text
+                    document.getElementById("content").innerHTML = ajax.responseText;
+
+                    // Hide the button after it has been clicked
+                    document.getElementById("btnContent").style.display = "none";
+                }
+            };
+
+            // STEP 4: Send the AJAX request for data
+            ajax.send();
+        }
+    </script>
+
+</body>
+
+</html>
