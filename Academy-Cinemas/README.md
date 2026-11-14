@@ -1,0 +1,1 @@
+As a coding bootcamp instructor at The Tech Academy. This project was used to create a tutorial video for students to get a short and concise introduction into the use of Bootstrap, what it is, how to use it, and how you can use its library to better maximize your time as a new developer. 
