@@ -10,3 +10,4 @@ This repository contains all the projects I have built for my JavaScript course.
 * **One-Page Website:** A One-Page Website with a functional JavaScript lightbox gallery.
 * **AJAX Project:** A basic demonstration of using XMLHttpRequest to dynamically update web content.
 * **jQuery Project:** A simple demonstration of jQuery events and effects.
+* **Bootstrap Project (Academy Cinemas):** A responsive movie theater webpage featuring Bootstrap Modals, Popovers, and a Carousel slideshow.
